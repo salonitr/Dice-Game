@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(46, 44, 62);
+    text-align: center;
+    
+}
+
+button{
+    color: rgb(67, 67, 224);
+    background-color: dimgrey;
+}
+.p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.v{
+    color: forestgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: aliceblue;
+}
+.c{
+    color: lawngreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
